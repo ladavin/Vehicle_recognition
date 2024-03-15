@@ -18,4 +18,4 @@ To create accurate and efficient image classification models suitable for variou
 
 Ideal for AI practitioners, data scientists, and students interested in deep learning and image processing.
 
-
+Sources are listed in the report in the report
