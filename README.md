@@ -1,7 +1,7 @@
 # AI Keras Image Classification Notebook
 ## Overview
 
-This repository features a Jupyter Notebook dedicated to image classification using TensorFlow and Keras. It's an advanced project aimed at developing and training deep learning models for classifying images.
+This repository features a Jupyter Notebook dedicated to image classification using TensorFlow and Keras. It's an project aimed at developing and training deep learning models for classifying images.
 ## Features
 
     Image Data Augmentation: Uses TensorFlow's ImageDataGenerator for enhancing the dataset.
@@ -14,8 +14,3 @@ This repository features a Jupyter Notebook dedicated to image classification us
 ## Objective
 
 To create accurate and efficient image classification models suitable for various applications in AI and computer vision.
-## Usage
-
-Ideal for AI practitioners, data scientists, and students interested in deep learning and image processing.
-
-Sources are listed in the report in the report
